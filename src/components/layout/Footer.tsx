@@ -88,7 +88,7 @@ const Footer: React.FC = () => {
             </div>
             <p className="text-sm text-primary-100">
               <Mail size={16} className="inline mr-2" />
-              contact@ecotrack.com
+              rohitjangir093@gmail.com
             </p>
           </div>
         </div>
